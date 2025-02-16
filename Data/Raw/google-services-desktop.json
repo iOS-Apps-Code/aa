@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232043372023",
+    "project_id": "ga-aa-11bd0",
+    "storage_bucket": "ga-aa-11bd0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232043372023:android:b4c3c42435cb791bfee2f2",
+        "android_client_info": {
+          "package_name": "com.aa.generaladaptiveapps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvZMPX3KkPWgIzH7gZNa6AkV5C_2Gmbes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
